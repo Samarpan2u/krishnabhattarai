@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+
+.maintitle{
+    text-align: center; 
+    margin-top: 10%;
+    color:brown;
+}
+.reeva{
+    margin-left: 43%;
+    height: 250px;
+    width: auto;
+    border: 2px solid brown;
+
+}
+.mydes{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    
+}
